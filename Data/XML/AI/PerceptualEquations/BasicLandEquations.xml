@@ -202,7 +202,9 @@
 
 	<Enemy_Has_Labour_Camp>
 		Variable_Enemy.HasUnit {
-							Parameter_Type = "Labour_Camp"}
+							Parameter_Type = "Labour_Camp",
+							Parameter_Type = "Slave_Market",
+							Parameter_Type = "Slave_Barracks"}
 	</Enemy_Has_Labour_Camp>
 
 	<Should_Destroy_Structure>

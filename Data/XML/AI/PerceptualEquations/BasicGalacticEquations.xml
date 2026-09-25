@@ -696,6 +696,8 @@
 
 	<Planet_Has_Labour_Camp>
 		Variable_Target.StructureCount {Parameter_Type = "Labour_Camp",
+									Parameter_Type = "Slave_Market",
+									Parameter_Type = "Slave_Barracks",
 									Parameter_Only_Consider_Complete = 1.0
 									}
 	</Planet_Has_Labour_Camp>

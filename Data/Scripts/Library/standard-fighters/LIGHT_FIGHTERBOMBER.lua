@@ -96,7 +96,7 @@ return {
 			CENTRALITY = {"Z95ML_HEADHUNTER_SQUADRON", false},
 			ANAXES = {"TIE_GT_SQUADRON", false},
 			SECRET = {"TIE_INTERCEPTOR_ION_SQUADRON", false},
-			SCREED = {"MISSILE_TIE_FIGHTER_SQUADRON", false},
+			SCREED = {"NIMBUS_V_WING_SQUADRON", false},
 		}
 		
 		if simpletypes[owner] then
